@@ -14,8 +14,12 @@
     "jquery": true
   },
   "rules": {
-    "no-console": 0,
+    "arrow-body-style": [
+      2,
+      "as-needed"
+    ],
     "func-names": 0,
+    "no-console": 0,
     "no-unused-vars": [
       1,
       {
