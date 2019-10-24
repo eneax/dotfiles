@@ -14,10 +14,7 @@
     "jquery": true
   },
   "rules": {
-    "arrow-body-style": [
-      2,
-      "as-needed"
-    ],
+    "arrow-body-style": [2, "as-needed"],
     "func-names": 0,
     "no-console": 0,
     "no-unused-vars": [
@@ -26,6 +23,7 @@
         "ignoreSiblings": true,
         "argsIgnorePattern": "res|next|^err"
       }
-    ]
+    ],
+    "semi": 0
   }
 }
