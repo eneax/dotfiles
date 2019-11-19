@@ -13,6 +13,7 @@ Here is a list of all the extensions I use.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
 - [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
