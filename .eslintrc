@@ -1,6 +1,10 @@
 {
   "extends": ["airbnb", "prettier", "prettier/react"],
-  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
   "rules": {
     "no-debugger": 0,
     "no-alert": 0,
@@ -95,12 +99,7 @@
     ],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "import/no-useless-path-segments": [
-      "error",
-      {
-        "noUselessIndex": true
-      }
-    ]
+    "react/jsx-props-no-spreading": 0
   },
   "plugins": ["html", "prettier", "react-hooks"]
 }
