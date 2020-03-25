@@ -1,0 +1,44 @@
+{
+  "workbench.statusBar.feedback.visible": false,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": 0,
+  "git.confirmSync": false,
+  "terminal.integrated.commandsToSkipShell": [
+    "psl.stepIn",
+    "psl.stepOut",
+    "psl.stepOver",
+    "psl.sendToHostTerminal"
+  ],
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.settings.useSplitJSON": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.disableLanguages": ["javascript", "javascriptreact"]
+}
