@@ -31,6 +31,7 @@ Here is a list of all the extensions I use.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [vscode-json](https://marketplace.visualstudio.com/items?itemName=andyyaldoo.vscode-json)
