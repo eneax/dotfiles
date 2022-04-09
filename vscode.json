@@ -101,5 +101,8 @@
     "plaintext": true,
     "markdown": true
   },
-  "workbench.colorTheme": "Material Theme Darker High Contrast"
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "terminal.external.osxExec": "Hyper.app",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "Inconsolata for Powerline",
 }
