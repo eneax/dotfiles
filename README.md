@@ -121,6 +121,12 @@ git config --global user.name "Your Name"
 git config --global email "you@your-domain.com"
 ```
 
+Configure Git to use VS Code as default editor:
+
+```shell
+git config --global core.editor "code --wait"
+```
+
 Print global git configuration:
 
 ```shell
