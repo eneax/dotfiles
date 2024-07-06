@@ -1,6 +1,6 @@
 # dotfiles
 
-My MacBook setup for web development includes tools like: [Homebrew](https://brew.sh), [Brave](https://brave.com), [Visual Studio Code](https://code.visualstudio.com) with [Oh My Zsh](https://ohmyz.sh), and [Git](https://git-scm.com).
+My MacBook setup for web development includes tools like: [Homebrew](https://brew.sh), [Google Chrome](https://www.google.com/chrome), [Visual Studio Code](https://code.visualstudio.com) with [Oh My Zsh](https://ohmyz.sh), and [Git](https://git-scm.com).
 
 ### Homebrew
 
@@ -20,7 +20,7 @@ Install GUI applications ([Homebrew formulae](https://formulae.brew.sh)):
 
 ```shell
 brew install --cask \
-  brave-browser  \
+  google-chrome  \
   visual-studio-code
 ```
 
@@ -34,7 +34,7 @@ brew install \
 
 ### GUI applications
 
-**Brave** (browser): when I need to test something on Chromium.
+**Google Chrome** (browser): when I need to test something on Chromium.
 
 **Visual Studio Code** (IDE): login with personal GitHub account.
 
